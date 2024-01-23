@@ -1,0 +1,1 @@
+FROM python:latestWORKDIR /appCOPY dcr.py /appCMD [ "python", "dcr.py" ]
